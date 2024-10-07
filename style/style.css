@@ -1,0 +1,142 @@
+body{
+    background-color: rgb(58, 61, 61);
+}
+
+.g{
+    float: right;
+
+}
+.g a{
+    text-decoration: none;
+    padding-left: 20px;
+    font-size: 20px;
+    color: aliceblue;
+
+}
+ 
+.o{
+    width: 300px;
+    height: 300px;
+    margin-left: 100px;
+    margin-top: 100px;
+    border-radius: 50%;
+
+}
+.n{
+    margin-left: 90px;
+}
+
+.M{
+    float: right;
+    margin-top: 50px;
+    margin-left: 50px;
+    font-size: 50px;
+    margin-right: 200px;
+    color: rgb(168, 168, 168);
+}
+
+.h{
+    float: left;
+}
+.pogi{
+    width: 400px;
+    height: 400px;
+    margin-top: 100px;
+    border-radius: 20px;
+}
+
+.gwapo{
+    float: left;
+
+}
+
+.sen{
+    float: right;
+    width: 500px;
+    margin-top: 150px;
+    font-size: 30;
+    margin-right: 250px;
+    color: rgb(168, 168, 168);
+}
+.games{
+   
+   margin-left: 500px;
+   
+}
+
+.ml img{
+    border-radius: 20px;
+    width: 300px;
+    height: 300px;
+    margin-left: 50px;
+    
+    
+
+}
+.ml{
+    margin-top: 150px;
+    margin-left: 200px;
+    
+
+    
+}
+
+.bor{
+    width: 400px;
+    height: 400px;
+    border-radius: 30px;
+    background-color: rgb(7, 7, 10);
+    margin-left: 500px;
+    margin-top: 150px;
+    position: absolute;
+
+}
+.bor h1{
+    color: antiquewhite;
+    margin-left: 90px;
+
+}
+.bor hr{
+    width: 300px;
+    height: 1px;
+    background-color: azure;
+}
+.bor input{
+    display: block;
+    margin-left: 100px;
+    height: 30px;
+    margin-top: 40px;
+    width: 200px;
+}
+.bor button{
+    background-color: rgb(18, 231, 18);
+    margin-left: 100px;
+    border-radius: 30px;
+    margin-left: 160px;
+    margin-top: 50px;
+}
+.pic img{
+    width: 200px;
+    height: 300px;
+    border-radius: 30px;
+    margin-left: 150px;
+    margin-top: 100px;
+    position: relative;
+}
+.footer{
+   
+    width: auto;
+    height: 70px;
+    background-color: rgba(0, 0, 0, 0.5);
+    position: relative;
+    top: 600px;
+    color: aliceblue;
+    font-size: 20px;
+   
+    
+}
+
+.footer a{
+    color:white ;
+    text-decoration: none;
+}
